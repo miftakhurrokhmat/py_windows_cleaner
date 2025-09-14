@@ -21,13 +21,13 @@ python --version
 ### 2. Simpan script
 Simpan file `cleaner.py` di folder favoritmu, misalnya:  
 ```
-C:\Scripts\cleaner.py
+C:\Scripts\wincleaner.py
 ```
 
 ### 3. Jalankan manual
 Buka **Command Prompt**, lalu ketik:
 ```cmd
-python C:\Scripts\cleaner.py
+python C:\Scripts\wincleaner.py
 ```
 
 ### 4. Hasil
@@ -46,7 +46,7 @@ Biar lebih praktis, bikin file `run_cleaner.bat` dengan isi:
 
 ```bat
 @echo off
-python "C:\Scripts\cleaner.py"
+python "C:\Scripts\wincleaner.py"
 pause
 ```
 
@@ -67,7 +67,7 @@ Simpan `run_cleaner.bat` di desktop → tinggal **double click** untuk menjalank
 - Kemungkinan Python belum ditambahkan ke **PATH**.  
 - Solusi: jalankan dengan perintah lengkap, misalnya:
   ```cmd
-  C:\Users\<USERNAME>\AppData\Local\Programs\Python\Python310\python.exe C:\Scripts\cleaner.py
+  C:\Users\<USERNAME>\AppData\Local\Programs\Python\Python310\python.exe C:\Scripts\wincleaner.py
   ```
 - Atau tambahkan Python ke PATH saat instalasi.  
 
