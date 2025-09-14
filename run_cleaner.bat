@@ -1,3 +1,3 @@
 @echo off
-python "cleaner.py"
+python "wincleaner.py"
 pause
