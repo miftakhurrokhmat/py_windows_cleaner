@@ -19,7 +19,7 @@ python --version
 ```
 
 ### 2. Simpan script
-Simpan file `cleaner.py` di folder favoritmu, misalnya:  
+Simpan file `wincleaner.py` di folder favoritmu, misalnya:  
 ```
 C:\Scripts\wincleaner.py
 ```
